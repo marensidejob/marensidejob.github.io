@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://marensidejob.github.io/sitemap.xml
